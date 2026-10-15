@@ -1,0 +1,9 @@
+
+{
+  "timestamp": "2026-01-21T10:10:00Z",
+  "file_path": "C:/Users/DELL/Documents/report.txt",
+  "integrity_status": "match",
+  "crypto_version": "sha256",
+  "event_type": "FILE_MODIFIED",
+  "severity": "LOW"
+}
